@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Blake Braun</title>
+    <link>http://blakebraun.com/about/</link>
+    <description>Recent content in Abouts on Blake Braun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Oct 2016 20:28:34 -0500</lastBuildDate>
+    <atom:link href="http://blakebraun.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://blakebraun.com/about/</link>
+      <pubDate>Thu, 13 Oct 2016 20:28:34 -0500</pubDate>
+      
+      <guid>http://blakebraun.com/about/</guid>
+      <description>&lt;p&gt;As a Computer Science and Communication double major at Saint Louis University, I have a passion for both technical and creative work. I am interested in creating tools and applications that make people’s lives easier and more enjoyable.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
