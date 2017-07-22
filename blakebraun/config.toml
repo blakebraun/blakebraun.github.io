@@ -4,6 +4,7 @@ baseurl = "http://blakebraun.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
+googleAnalytics = "UA-89170054-1"
 
 contentdir = "content"
 layoutdir = "layouts"

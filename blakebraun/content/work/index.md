@@ -15,6 +15,18 @@ title = "My Work"
 [Click to download my resume.](blakebraun.pdf)
 <br/>
 <br/>
+Through my internship experience at [DISH](http://dish.com), I was able to teach myself the fundamentals of JavaScript, React, Redux, and Radium. I thoroughly enjoy working with front-end development and have a strong interest in pursuing these languages and frameworks further. In addition, learning more about REST APIs allowed me to gain a greater understanding of web service architecture, and I hope to continue to expand this knowledge in my near future.
+<br />
+<br />
+
+My [YouTube channel](https://www.youtube.com/user/bbraun95) showcases the various creative work that I have done throughout my high school and college careers.
+<br/>
+<br/>
+
+My [GitHub profile](https://github.com/blakebraun) contains some samples of my coding work.
+<br />
+<br />
+
 
 As the Vice President of Administration for the Delta Delta chapter of the Alpha Phi Omega service fraternity, I completely redesigned the [chapter website](http://apo.slu.edu), making it more visually appealing and easier to navigate.
 <br/>
