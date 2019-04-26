@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blake Braun</title>
-    <link>http://blakebraun.com/</link>
+    <link>https://blakebraun.com/</link>
     <description>Recent content on Blake Braun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 13 Oct 2016 20:30:23 -0500</lastBuildDate>
     
-	<atom:link href="http://blakebraun.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blakebraun.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://blakebraun.com/contact/</link>
+      <link>https://blakebraun.com/contact/</link>
       <pubDate>Thu, 13 Oct 2016 20:30:23 -0500</pubDate>
       
-      <guid>http://blakebraun.com/contact/</guid>
+      <guid>https://blakebraun.com/contact/</guid>
       <description>Please feel free to contact me using the information below.
   Email: blake@blakebraun.com
  LinkedIn: bbraun5</description>
@@ -24,19 +24,19 @@
     
     <item>
       <title>My Work</title>
-      <link>http://blakebraun.com/work/</link>
+      <link>https://blakebraun.com/work/</link>
       <pubDate>Thu, 13 Oct 2016 20:30:15 -0500</pubDate>
       
-      <guid>http://blakebraun.com/work/</guid>
+      <guid>https://blakebraun.com/work/</guid>
       <description>Click to download my resume.   As a software engineer at DISH, I have been deeply involved with building user interfaces to prove our core architectural capabilities in existing lines of business, as well as new ones - especially the buildout of our nationwide NB-IoT network. These user interfaces have been instrumental in demonstrating progress of meeting our March 2020 deadline to management and executives. My work and feedback has directly influenced decisions made for how our customers will be purchase devices and be on-boarded to our network.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://blakebraun.com/about/</link>
+      <link>https://blakebraun.com/about/</link>
       <pubDate>Thu, 13 Oct 2016 20:28:34 -0500</pubDate>
       
-      <guid>http://blakebraun.com/about/</guid>
+      <guid>https://blakebraun.com/about/</guid>
       <description>Click to download my resume.  
 As a Software Engineer at DISH, I have a passion for full-stack development, with a focus on front-end development in React/Redux. I am interested in creating tools and applications that make peoples&amp;rsquo; lives easier and more enjoyable.
  Through my internship experience, I gained a great amount of knowledge into how corporate IT works, and how development teams work together. My project focused on helping to centralize REST API information from Swagger documentation and JSON Schemas and Examples pulled from GitLab so that developers could understand microservices without ever needing to meet their creators.</description>
